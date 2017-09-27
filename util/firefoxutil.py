@@ -17,7 +17,7 @@ class startFireFox(object):
     def TimeSleep(self,number):
         time.sleep(number)
         pass
-
 #####
 ###哈哈哈
 ######哈你是谁
+#发V吗
